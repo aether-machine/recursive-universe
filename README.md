@@ -58,7 +58,8 @@ These initial simulations aimed to explore the nature of **black holes as energy
 - Gravity as a Self-Regulating, Dynamic Function
 
 One of the most profound shifts introduced by this framework is the understanding of gravity not as a fixed force, but as a dynamic feedback mechanism that responds to the overall state of the universe. This perspective is critical for understanding the cosmological oscillator model, where gravity does not simply act as a passive force, but as an active regulator that helps to maintain the system's balance.
-Gravity in Context: A Function of the Entire System
+
+- Gravity in Context: A Function of the Entire System
 
 In traditional general relativity, gravity is often described as a constant force that governs the interaction between mass and spacetime curvature. However, this approach tends to isolate gravity as a static term, independent of the surrounding system. In contrast, this model proposes that gravity is inherently dynamic, meaning it can only be fully understood within the context of the entire system—the interplay between matter, energy, and the spacetime fabric.
 
