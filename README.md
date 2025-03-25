@@ -1,4 +1,3 @@
-# recursive-universe
 Light-Time-Matter Theory
 A New Expansion of General Relativity Based on Kozyrev’s Ideas
 
@@ -13,23 +12,26 @@ A New Expansion of General Relativity Based on Kozyrev’s Ideas
 
     A Natural Feedback System: Explains cosmic energy balance.
 
-    Light-to-Matter Conversion
-    dM=τ(T)dEdM=τ(T)dE
+## 📜 Core Equations  
 
-    Time-Driven Energy Flow
-    dEdT=αTdTdE​=αT
+1. **Light-to-Matter Conversion**  
+   $$ dM = \tau(T) dE $$  
 
-    Matter Decay into Radiation
-    dMdS=−βMdSdM​=−βM
+2. **Time-Driven Energy Flow**  
+   $$ \frac{dE}{dT} = \alpha T $$  
 
-    Cosmological Equilibrium Condition
-    Λ(T)∝EMΛ(T)∝ME​
+3. **Matter Decay into Radiation**  
+   $$ \frac{dM}{dS} = -\beta M $$  
 
-Steady-State Condition
+4. **Cosmological Equilibrium Condition**  
+   $$ \Lambda(T) \propto \frac{E}{M} $$  
 
-At equilibrium:
-dEdT+dMdS=0
-dTdE​+dSdM​=0
+### **Steady-State Condition**  
+At equilibrium:  
+
+$$  
+\frac{dE}{dT} + \frac{dM}{dS} = 0  
+$$  
 
 🧪 Simulations
 
