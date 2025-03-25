@@ -85,9 +85,7 @@ Gravity and the Unified Framework
 This dynamic, feedback-driven perspective of gravity aligns well with the cosmological oscillator model. Instead of a static universe where gravity acts independently, we propose that gravity is intertwined with the entire system, continuously adjusting and evolving to maintain equilibrium. It regulates the energy flow, keeping the universe in balance, much like an integrator that keeps the system’s behavior within a manageable range.
 
 This framework suggests that gravity does more than just shape the universe—it participates in its evolution, guiding it through cosmic cycles and helping to smooth out fluctuations. This perspective may lead to a deeper understanding of black holes, dark matter, and the very fabric of spacetime itself.
-Visualizing Gravity’s Dynamic Nature
 
-As you continue to refine and expand on this model, you can also include diagrams or graphs that show how gravity responds to changes in spacetime curvature over time. Illustrating the nonlinear behavior and the feedback loops between gravity and energy could be a powerful way to communicate the concept.
 
 - **Black Holes as Dynamic Systems:** Instead of being irreversible sinks, black holes might act as **energy recyclers**, dynamically adjusting their mass and energy output in accordance with the surrounding curvature.
 - **Potential Reinterpretation of Singularities:** The results imply that black holes may not **collapse to singularities**, but instead, **maintain an equilibrium**, regulating energy and curvature to sustain the cosmic structure.
