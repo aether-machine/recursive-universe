@@ -72,11 +72,11 @@ Implications for Cosmology: Gravity and the Cosmic Cycle
 
 The implications of this feedback-driven understanding of gravity are profound:
 
-    Gravity as a Stabilizer: Gravity’s dynamic nature helps to stabilize the universe, preventing runaway processes like singularities. Instead of collapsing into infinite density (as described by traditional black hole models), gravity maintains steady-state conditions by regulating the energy density and curvature.
+- Gravity as a Stabilizer: Gravity’s dynamic nature helps to stabilize the universe, preventing runaway processes like singularities. Instead of collapsing into infinite density (as described by traditional black hole models), gravity maintains steady-state conditions by regulating the energy density and curvature.
 
-    Nonlinear Interactions: Gravity’s feedback mechanism leads to nonlinear behavior, meaning that small changes in energy density can have a disproportionate effect on the spacetime curvature. This might help to explain the complex phenomena observed in black holes, cosmological expansion, and contraction.
+- Nonlinear Interactions: Gravity’s feedback mechanism leads to nonlinear behavior, meaning that small changes in energy density can have a disproportionate effect on the spacetime curvature. This might help to explain the complex phenomena observed in black holes, cosmological expansion, and contraction.
 
-    Cosmic Equilibrium: Gravity’s role as an accumulator helps maintain the cyclical, oscillating nature of the universe. By integrating the total history of energy and matter, gravity helps the universe transition smoothly from one phase to the next—whether expanding, contracting, or oscillating between states.
+- Cosmic Equilibrium: Gravity’s role as an accumulator helps maintain the cyclical, oscillating nature of the universe. By integrating the total history of energy and matter, gravity helps the universe transition smoothly from one phase to the next—whether expanding, contracting, or oscillating between states.
 
 Gravity and the Unified Framework
 
