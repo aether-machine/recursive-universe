@@ -64,7 +64,8 @@ One of the most profound shifts introduced by this framework is the understandin
 In traditional general relativity, gravity is often described as a constant force that governs the interaction between mass and spacetime curvature. However, this approach tends to isolate gravity as a static term, independent of the surrounding system. In contrast, this model proposes that gravity is inherently dynamic, meaning it can only be fully understood within the context of the entire system—the interplay between matter, energy, and the spacetime fabric.
 
 The key insight here is that gravity does not function independently; rather, it responds to the total energy density and curvature of spacetime at any given moment, reflecting the accumulated history of the universe. Gravity thus behaves like an integrator or accumulator, adjusting itself in a feedback loop to stabilize the system.
-The Feedback Nature of Gravity: An Integrating Function
+
+- The Feedback Nature of Gravity: An Integrating Function
 
 Gravity can be thought of as an integrator of spacetime events, responding not just to the immediate state of the system, but to its historical development. As the system accumulates energy and mass over time, gravity adjusts the curvature of spacetime accordingly. This self-regulating process helps to maintain the balance of the universe and ensures the stability of the cosmic cycle.
 
