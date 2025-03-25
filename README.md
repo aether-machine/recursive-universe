@@ -31,11 +31,12 @@ Below are the core equations of the **Recursive Universe Model**:
 
 - **Equation 2**: Matter-Energy-Time Transformation:
 
-  $$ E = T \cdot \Delta m $$
+$$ E = T \cdot m $$
 
 - **Equation 3**: Energy Feedback Loop:
 
-  $$ E_{feedback} = T \cdot \int{ \frac{m}{c^2} dt} $$
+$$ E_{\text{feedback}} = T \cdot \int \frac{m}{c^2} \, dt $$
+
 
 These equations describe the interactions between energy, time, and matter in a universe governed by cyclical processes.
 
