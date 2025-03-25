@@ -13,23 +13,23 @@ A New Expansion of General Relativity Based on Kozyrev’s Ideas
 
     A Natural Feedback System: Explains cosmic energy balance.
 
-📜 Core Equations
-
     Light-to-Matter Conversion
-    dM=τ(T)dE
-    dM=τ(T)dE
+    dM=τ(T)dEdM=τ(T)dE
 
     Time-Driven Energy Flow
-    dEdT=αT
-    dTdE​=αT
+    dEdT=αTdTdE​=αT
 
     Matter Decay into Radiation
-    dMdS=−βM
-    dSdM​=−βM
+    dMdS=−βMdSdM​=−βM
 
     Cosmological Equilibrium Condition
-    Λ(T)∝EM
-    Λ(T)∝ME​
+    Λ(T)∝EMΛ(T)∝ME​
+
+Steady-State Condition
+
+At equilibrium:
+dEdT+dMdS=0
+dTdE​+dSdM​=0
 
 🧪 Simulations
 
