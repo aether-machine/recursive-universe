@@ -15,20 +15,19 @@ A New Expansion of General Relativity Based on Kozyrev’s Ideas
 ## 📜 Core Equations  
 
 1. **Light-to-Matter Conversion**  
-   $$ dM = \tau(T) dE $$  
+   $dM = \tau(T) dE$  
 
 2. **Time-Driven Energy Flow**  
-   $$ \frac{dE}{dT} = \alpha T $$  
+   $\frac{dE}{dT} = \alpha T$  
 
 3. **Matter Decay into Radiation**  
-   $$ \frac{dM}{dS} = -\beta M $$  
+   $\frac{dM}{dS} = -\beta M$  
 
 4. **Cosmological Equilibrium Condition**  
-   $$ \Lambda(T) \propto \frac{E}{M} $$  
+   $\Lambda(T) \propto \frac{E}{M}$  
 
 ### **Steady-State Condition**  
 At equilibrium:  
-
 $$  
 \frac{dE}{dT} + \frac{dM}{dS} = 0  
 $$  
