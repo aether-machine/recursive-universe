@@ -42,11 +42,17 @@ These initial simulations aimed to explore the nature of **black holes as energy
 - **Spacetime Curvature** showed **exponential growth** in response to fluctuations in energy density, suggesting that gravity behaves as a **feedback mechanism** rather than just a passive force.
 - **Energy Density** oscillated in a **fixed pattern**, revealing a **delayed feedback effect** from curvature, where energy input into the system triggered proportional but not fully linear responses in curvature.
 - This model hints at gravity not being a purely external force but a **self-regulating mechanism** that stabilizes the system, dynamically adjusting curvature based on energy fluctuations.
+
+- ![Gravity As Feedback](images/gravityfeedback.png)
+
   
 #### **Second Simulation: Black Holes as Energy Recyclers**
 - **Spacetime curvature** increased as matter fell toward the black hole, but this **increase wasn’t unlimited**—it reached a point where the system began to **self-regulate**.
 - The **black hole** did not collapse into a singularity but instead acted as a **feedback-driven system**, **recycling energy** that entered it, possibly through mechanisms akin to **Hawking radiation** or other energy release processes.
 - The **curvature vs. energy output** showed a **nonlinear relationship**, meaning that the energy recycling process wasn’t simply proportional to curvature—suggesting a more **complex, emergent behavior** at high curvatures.
+
+- ![Black Hole Energy Recycling](images/black-hole-recycler.png)
+
 
 ### **3. Implications for Gravity and Black Hole Models**
 - **Gravity as a Feedback Mechanism:** The simulations support the hypothesis that gravity may be **self-regulating**, as opposed to the traditional view where gravitational attraction is an external force.
