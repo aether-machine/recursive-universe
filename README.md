@@ -28,6 +28,7 @@ A New Expansion of General Relativity Based on Kozyrev’s Ideas
 
 ### **Steady-State Condition**  
 At equilibrium:  
+
 $$  
 \frac{dE}{dT} + \frac{dM}{dS} = 0  
 $$  
