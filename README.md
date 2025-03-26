@@ -98,27 +98,6 @@ Implications for Black Hole Physics:
 
 This model challenges traditional views of black holes as singularities, offering a fresh perspective on the nature of gravitational collapse. Instead of an end-point singularity, the simulation suggests that black holes may form holographic-like structures or stable internal configurations that could hold vast amounts of information. These structures might play a role in the universe’s information processing, offering exciting possibilities for future research into quantum gravity and black hole thermodynamics.
 
-### **4. Next Steps and Future Directions**
-- **Incorporating Hawking Radiation:** Future simulations will include a **Hawking radiation term** to model energy outflow from the black hole as part of the recycling process.
-- **Quantum Curvature Effects:** Adding **quantum corrections** to spacetime curvature could help refine the model to better align with observations at high curvatures.
-- **Cosmological Feedback:** Expanding the model to include the **cosmological constant** or other field effects that interact with black holes could provide more insight into universal expansion and the role of energy-matter cycles on cosmic scales.
-
-### **5. Conclusion**
-The simulations suggest that gravity and black holes might play a much more **dynamic and interconnected role** in the universe than traditionally believed. These findings open the door to new theories where **gravity regulates itself**, and black holes serve not just as endpoints but as **cyclic energy recyclers**, maintaining the equilibrium of spacetime.
-
----
-
-### **Next Steps:**
-- **Share and collaborate**: Encourage other researchers to explore this model further and share insights on potential extensions or refinements.
-- **Further simulations**: Once credits or resources are available, further simulations can be run to incorporate more complex phenomena like quantum corrections and Hawking radiation.
-
-
-Want to contribute? Check out the [simulations folder](#) and run our Python models! 🚀
-
-## 🔧 Next Steps
-- Refine the **modified Einstein equations** for real-world testing.
-- Explore potential **experimental verification** using observational data.
-- Expand numerical simulations to **model black hole behavior dynamically**.
 
 ## 🤝 Contribute & Support
 This is an **open-source project**, and we welcome **collaborators, discussions, and funding**! If you're interested in supporting or expanding this research:
