@@ -1,4 +1,4 @@
-# 📜 Recursive Universe and the Cosmological Oscillator Model
+# 📜 Recursive Universe and the Cosmological Oscillation Model
 
 ## 🌌 Overview
 This project explores a **new theoretical framework** that unifies **general relativity, quantum mechanics, and cosmic evolution** by proposing that **time, light, and matter are fundamentally interconnected and cycle through different states**.
