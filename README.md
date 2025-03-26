@@ -13,9 +13,8 @@ This project explores a **new theoretical framework** that unifies **general rel
 - Instead of a fundamental force, **gravity may emerge from energy redistribution** across spacetime.
 - Einstein’s **field equations** are modified to include a **time-dependent energy feedback term**:
 
-  \[
+math
   G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} \left( T_{\mu\nu} + \frac{\partial E}{\partial t} \right)
-  \]
 
 - This removes singularities and suggests **black holes recycle energy** instead of leading to infinite curvature.
 
@@ -27,9 +26,8 @@ This project explores a **new theoretical framework** that unifies **general rel
 - Instead of an unknown force, cosmic expansion might be a **natural oscillation** in the recursive energy cycle.
 - A **dynamic cosmological constant** is introduced:
 
-  \[
+math
   \Lambda(t) = \Lambda_0 e^{-t / \tau}
-  \]
 
 - This could explain accelerating expansion **without requiring exotic dark energy**.
 
