@@ -91,6 +91,8 @@ Revised Model of Black Hole Evolution:
 In this study, we present a novel model for the evolution of black holes that incorporates feedback mechanisms between entropy, Hawking radiation, and mass. Our findings suggest that black holes are not merely gravitational sinks, but rather dynamic, self-regulating systems capable of forming internal structures rather than collapsing indefinitely.
 Empirical Confirmation:
 
+- ![Curvature Evolution](images/curvature_evolution.png)
+
 The simulation results reveal a key insight: the curvature of the black hole's interior increases rapidly at first, suggesting a period of instability or dynamic evolution. However, as time progresses, curvature stabilizes, suggesting that the black hole may settle into a stable, self-organizing internal structure. This stabilization supports the hypothesis that black holes do not collapse into singularities but may undergo a process of internal structural formation driven by feedback loops within the system.
 Implications for Black Hole Physics:
 
