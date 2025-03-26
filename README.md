@@ -3,7 +3,7 @@
 ## 🌌 Overview
 This project explores a **new theoretical framework** that unifies **general relativity, quantum mechanics, and cosmic evolution** by proposing that **time, light, and matter are fundamentally interconnected and cycle through different states**.
 
-## 🔬 Key Findings
+## 🔬 Initial Predictions
 ### 1️⃣ Matter as "Trapped Light"
 - Matter and energy are not distinct but instead exist in a **recursive transformation** driven by time.
 - This aligns with known **pair production** experiments where photons create matter and antimatter.
@@ -22,7 +22,7 @@ This project explores a **new theoretical framework** that unifies **general rel
 - Instead of being one-way information sinks, black holes may function as **energy recyclers**, feeding the cosmic equilibrium.
 - This may help resolve the **information paradox** and eliminate the need for "dark matter" corrections.
 
-### 4️⃣ Dark Energy as an Emergent Process
+### 4️⃣ Cosmological Expansion explained as an emergent process of cyclic evolution
 - Instead of an unknown force, cosmic expansion might be a **natural oscillation** in the recursive energy cycle.
 - A **dynamic cosmological constant** is introduced:
   
@@ -30,7 +30,7 @@ This project explores a **new theoretical framework** that unifies **general rel
   \Lambda(t) = \Lambda_0 e^{-t / \tau}
   ```
   
-- This could explain accelerating expansion **without requiring exotic dark energy**.
+- This could explain accelerating expansion **without requiring the dark energy correction**.
 
 ## **Summary of Findings: Black Hole and Curvature Feedback Mechanisms**
 
