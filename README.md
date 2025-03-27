@@ -64,7 +64,7 @@ Where:
 - $$\( t_{\text{max}} \)$$ is a characteristic **time constant** that defines the system’s maximum time release rate.
 
 ### **Step 3: Incorporating Time Release in Spacetime Curvature**
-We now expand the **spacetime curvature** equations to explicitly include the effects of this time release. The **curvature tensor** \( R_{\mu\nu} \) would then evolve dynamically with the entropy-time interaction, leading to a new form of the field equations:
+We now expand the **spacetime curvature** equations to explicitly include the effects of this time release. The **curvature tensor** $$\( R_{\mu\nu} \)$$ would then evolve dynamically with the entropy-time interaction, leading to a new form of the field equations:
 
 $$
 R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} \left( T_{\mu\nu} + \frac{\partial E}{\partial t} + \frac{\partial \Delta S_{\mu\nu}}{\partial t} \right)
