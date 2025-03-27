@@ -45,7 +45,7 @@ G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} \left( T_{\mu\nu} + \frac{\
 $$
 
 Where:
-- \( T_{\mu\nu} \) is the **energy-momentum tensor** representing matter and energy,
+- $$\( T_{\mu\nu} \)$$ is the **energy-momentum tensor** representing matter and energy,
 - \( \frac{\partial E}{\partial t} \) represents the **energy flux** associated with the time-outflow term (time released from black holes, akin to Hawking radiation),
 - \( \Delta S_{\mu\nu} \) is the **entropy flux** associated with time release, explicitly linking the **change in entropy** due to Hawking radiation or other black hole phenomena.
 
