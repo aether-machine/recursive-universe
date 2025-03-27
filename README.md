@@ -70,7 +70,7 @@ $$
 R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} \left( T_{\mu\nu} + \frac{\partial E}{\partial t} + \frac{\partial \Delta S_{\mu\nu}}{\partial t} \right)
 $$
 
-Where \( \frac{\partial \Delta S_{\mu\nu}}{\partial t} \) represents the **rate of change in entropy** associated with the **release of time** in the system, influencing the overall curvature of spacetime.
+Where $$\( \frac{\partial \Delta S_{\mu\nu}}{\partial t} \)$$ represents the **rate of change in entropy** associated with the **release of time** in the system, influencing the overall curvature of spacetime.
 
 This allows for the following:
 - **Dynamic spacetime curvature** not only responds to the energy-momentum of matter and radiation but also adjusts due to the feedback from **time release** and the **entropy of the system**.
@@ -90,8 +90,8 @@ $$
 $$
 
 Where:
-- $$\( \Lambda_0 \)$$ is the initial value of the **cosmological constant**,
-- $$\( \tau \)$$ is the characteristic time scale governing the rate of time release.
+- \( \Lambda_0 \) is the initial value of the **cosmological constant**,
+- \( \tau \) is the characteristic time scale governing the rate of time release.
 
 ### **Energy Feedback via Time:**
 To fully account for the feedback loops, the evolution of the energy density in the universe should also consider how the **release of time** (through black holes or other mechanisms) modifies **cosmological evolution**. This introduces a time-dependent **energy density** term:
@@ -101,8 +101,8 @@ $$
 $$
 
 Where:
-- $$\( \rho_0 \)$$ is the initial energy density of the universe,
-- The decay term $$\( e^{-t / \tau} \)$$ reflects the dynamic release of time affecting the system’s overall energy content, linked directly to the expansion of spacetime and the cosmic feedback loop.
+- \( \rho_0 \) is the initial energy density of the universe,
+- The decay term \( e^{-t / \tau} \) reflects the dynamic release of time affecting the system’s overall energy content, linked directly to the expansion of spacetime and the cosmic feedback loop.
 
 ---
 
