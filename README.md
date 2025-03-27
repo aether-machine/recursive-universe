@@ -46,8 +46,8 @@ $$
 
 Where:
 - $$\( T_{\mu\nu} \)$$ is the **energy-momentum tensor** representing matter and energy,
-- \( \frac{\partial E}{\partial t} \) represents the **energy flux** associated with the time-outflow term (time released from black holes, akin to Hawking radiation),
-- \( \Delta S_{\mu\nu} \) is the **entropy flux** associated with time release, explicitly linking the **change in entropy** due to Hawking radiation or other black hole phenomena.
+- $$\( \frac{\partial E}{\partial t} \)$$ represents the **energy flux** associated with the time-outflow term (time released from black holes, akin to Hawking radiation),
+- $$\( \Delta S_{\mu\nu} \)$$ is the **entropy flux** associated with time release, explicitly linking the **change in entropy** due to Hawking radiation or other black hole phenomena.
 
 ### **Step 2: Time Entropy in Black Holes**
 We hypothesize that black holes not only emit energy (as Hawking radiation) but also release **time**, a dynamic quantity related to **entropy**. The release of time can be described as a loss in **spacetime entropy** that mirrors the behavior of matter falling into a black hole.
@@ -59,9 +59,9 @@ $$
 $$
 
 Where:
-- \( \Delta S \) represents the change in entropy, linked to the release of time from a black hole,
-- \( k_B \) is the **Boltzmann constant**,
-- \( t_{\text{max}} \) is a characteristic **time constant** that defines the system’s maximum time release rate.
+- $$\( \Delta S \)$$ represents the change in entropy, linked to the release of time from a black hole,
+- $$\( k_B \)$$ is the **Boltzmann constant**,
+- $$\( t_{\text{max}} \)$$ is a characteristic **time constant** that defines the system’s maximum time release rate.
 
 ### **Step 3: Incorporating Time Release in Spacetime Curvature**
 We now expand the **spacetime curvature** equations to explicitly include the effects of this time release. The **curvature tensor** \( R_{\mu\nu} \) would then evolve dynamically with the entropy-time interaction, leading to a new form of the field equations:
@@ -90,8 +90,8 @@ $$
 $$
 
 Where:
-- \( \Lambda_0 \) is the initial value of the **cosmological constant**,
-- \( \tau \) is the characteristic time scale governing the rate of time release.
+- $$\( \Lambda_0 \)$$ is the initial value of the **cosmological constant**,
+- $$\( \tau \)$$ is the characteristic time scale governing the rate of time release.
 
 ### **Energy Feedback via Time:**
 To fully account for the feedback loops, the evolution of the energy density in the universe should also consider how the **release of time** (through black holes or other mechanisms) modifies **cosmological evolution**. This introduces a time-dependent **energy density** term:
@@ -101,8 +101,8 @@ $$
 $$
 
 Where:
-- \( \rho_0 \) is the initial energy density of the universe,
-- The decay term \( e^{-t / \tau} \) reflects the dynamic release of time affecting the system’s overall energy content, linked directly to the expansion of spacetime and the cosmic feedback loop.
+- $$\( \rho_0 \)$$ is the initial energy density of the universe,
+- The decay term $$\( e^{-t / \tau} \)$$ reflects the dynamic release of time affecting the system’s overall energy content, linked directly to the expansion of spacetime and the cosmic feedback loop.
 
 ---
 
