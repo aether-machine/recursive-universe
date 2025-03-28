@@ -71,8 +71,8 @@ This simulation builds on Simulation 1 by exploring how the **release of time** 
 
 **Input Parameters**:  
 - Black Hole Temperature: 1 million K
-- Entropy Constant (\(k_B\)): Standard value
-- Time Constant (\(\tau\)): 100,000 years
+- Entropy Constant $$(\(k_B\))$$: Standard value
+- Time Constant $$(\(\tau\))$$: 100,000 years
 
 **Methodology**:  
 This simulation calculates the entropy changes due to the release of time and models how it affects the spacetime curvature. It integrates **Hawking radiation** with the entropy-time interaction.
@@ -99,8 +99,8 @@ This simulation explores the **feedback loops** that emerge from the dynamic rel
 - **Time-Dependent Cosmological Constant**: The evolution of the cosmological constant as time is released by black holes.
 
 **Input Parameters**:  
-- Cosmological Constant (\(\Lambda\)): \(10^{-52} \, \text{m}^{-2}\)
-- Time Feedback Constant (\(\tau\)): 1 billion years
+- Cosmological Constant $$(\(\Lambda\)): \(10^{-52} \, \text{m}^{-2}\)$$
+- Time Feedback Constant $$(\(\tau\))$$: 1 billion years
 
 **Methodology**:  
 This simulation calculates the **cosmic expansion** using the **time-dependent cosmological constant**. It includes feedback from time release at the black hole level and models how it contributes to **accelerating expansion**.
@@ -120,7 +120,3 @@ This is the final, most advanced simulation in the series. It integrates all the
 ### **4. Conclusion**
 
 The final section of the documentation will summarize the **evolution of the simulations**, their contributions to the theory, and the next steps for further research.
-
----
-
-Would you like me to help you formalize this structure for the **README.md** file or any specific part of it? Let me know how you'd like to proceed, and I can provide more detailed guidance!
