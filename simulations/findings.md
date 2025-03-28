@@ -50,7 +50,7 @@ This simulation models a black hole emitting time waves into the surrounding spa
 **Results**:  
 - Graph showing the **propagation of time waves** from the black hole across the surrounding space.
 - Visual representation of the **distortion of spacetime** due to the release of time.
-- ![Black Hole Time Wave Propagation](images/black_hole_time_waves.png)
+- ![Black Hole Time Wave Propagation](/images/black_hole_time_waves.png)
 
   
 **Key Insights**:  
