@@ -79,7 +79,8 @@ This simulation builds on Simulation 1 by exploring how the **release of time** 
 **Methodology**:  
 This simulation calculates the entropy changes due to the release of time and models how it affects the spacetime curvature. It integrates **Hawking radiation** with the entropy-time interaction.
 
-**Results**:  
+**Results**: 
+![Entropy Time Interaction](/images/entropy_time_interaction.png)
 - Graph showing **entropy changes** as time is released from the black hole.
 - Visual representation of the **correlation between time release and entropy flux**.
 
