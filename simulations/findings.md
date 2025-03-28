@@ -109,6 +109,7 @@ This simulation explores the **feedback loops** that emerge from the dynamic rel
 This simulation calculates the **cosmic expansion** using the **time-dependent cosmological constant**. It includes feedback from time release at the black hole level and models how it contributes to **accelerating expansion**.
 
 **Results**:  
+![Advanced Feedback](/images/advanced_feedback_with_saturated_entropy.png)
 - Graph showing the evolution of the **cosmological constant** over time.
 - Plot of the **energy density** in the universe, showing how it is influenced by the release of time.
 
