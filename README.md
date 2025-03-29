@@ -35,7 +35,11 @@ This project explores a **new theoretical framework** that unifies **general rel
 
 Follow these instructions to test and run the **black hole time wave simulation**:
 
-[![DOI](https://zenodo.org/badge/954716374.svg)](https://doi.org/10.5281/zenodo.15105351)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15105352.svg)](https://doi.org/10.5281/zenodo.15105352)
+
+
 
 1. **Clone the Repository**
 ```bash
