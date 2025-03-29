@@ -35,6 +35,8 @@ This project explores a **new theoretical framework** that unifies **general rel
 
 Follow these instructions to test and run the **black hole time wave simulation**:
 
+[![DOI](https://zenodo.org/badge/954716374.svg)](https://doi.org/10.5281/zenodo.15105351)
+
 1. **Clone the Repository**
 ```bash
 git clone https://github.com/your_username/black-hole-time-waves.git
@@ -50,7 +52,5 @@ pip install -r requirements.txt
 python scripts/black_hole_time_waves.py
 
 
-
-[![DOI](https://zenodo.org/badge/954716374.svg)](https://doi.org/10.5281/zenodo.15105351)
 
 
