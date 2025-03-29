@@ -92,42 +92,65 @@ This simulation is an advancement over Simulation 1, incorporating entropy chang
 
 ---
 
-#### **Simulation 3: Advanced Black Hole and Time Feedback**
+### **Updated Simulation Documentation**
+
+---
+
+#### **Simulation 3: Advanced Black Hole and Time Feedback (Updated)**
 
 **Objective**:  
-This simulation explores the **feedback loops** that emerge from the dynamic relationship between time release, energy density, and the expansion of the universe. It builds on the findings of previous simulations by incorporating a **time-dependent cosmological constant**.
+This simulation builds on the previous iterations and introduces a more refined model for **time feedback**, specifically addressing the **runaway behavior** observed earlier. By integrating **azimuthal quantum influence** and **entropy stabilization**, the simulation now reflects the dynamic and stabilizing effects of time on both **entropy** and **energy density** in black hole systems.
 
 **Key Concepts**:  
-- **Cosmological Feedback**: How time release affects the large-scale structure of the universe.
-- **Time-Dependent Cosmological Constant**: The evolution of the cosmological constant as time is released by black holes.
+- **Time as a Dynamic Force**: Time is no longer treated as a passive backdrop but as an active force that modulates entropy and energy density.
+- **Azimuthal Quantum Influence**: The feedback loop that adjusts the system's entropy and energy density through the evolution of the **azimuthal quantum number** and associated **Legendre polynomials**.
+- **Entropy Stabilization**: The introduction of a **decay factor** in the entropy function ensures the system stabilizes and avoids runaway entropy growth.
 
 **Input Parameters**:  
-- Cosmological Constant $$(\(\Lambda\)): \(10^{-52} \, \text{m}^{-2}\)$$
-- Time Feedback Constant $$(\(\tau\))$$: 1 billion years
+- Cosmological Constant \( \Lambda_0 \): \(10^{-52} \, \text{m}^{-2}\)
+- Energy Density \( \rho_0 \): \(1 \times 10^{-9} \, \text{kg/m}^3\)
+- Time Constant \( \tau \): \(1 \times 10^{10} \, \text{years}\)
+- Quantum Feedback Parameter \( m_{\text{feedback}} \): Modulated based on azimuthal quantum influence
+- Decay Factor \( \gamma \): A stabilizing parameter to prevent runaway behavior
 
 **Methodology**:  
-This simulation calculates the **cosmic expansion** using the **time-dependent cosmological constant**. It includes feedback from time release at the black hole level and models how it contributes to **accelerating expansion**.
+The updated simulation introduces a more robust feedback mechanism that incorporates the **stabilizing effect** of time, preventing runaway entropy and energy growth. The key changes include:
+- **Entropy Change Modulation**: A new equation for entropy change is introduced, where entropy evolves according to a **downwards exponential decay** based on time feedback.
+- **Energy Density Feedback**: The energy density is now dynamically adjusted using the time-dependent cosmological constant and feedback from entropy evolution.
+
 
 **Results**:  
-![Advanced Feedback](/images/advanced_feedback_with_saturated_entropy.png)
+![Advanced Feedback](/images/quantum_feedback_blackhole.png)
 - Graph showing the evolution of the **cosmological constant** over time.
 - Plot of the **energy density** in the universe, showing how it is influenced by the release of time.
 
-**Key Insights**:  
-- The feedback from time release leads to a **dynamic cosmological constant** that naturally explains the **accelerating expansion** of the universe without invoking exotic dark energy.
-  
-**Iterative Refinements**:  
-This is the final, most advanced simulation in the series. It integrates all the previous findings into a comprehensive model of cosmic time dynamics.
+- **Stable Entropy Curve**: With the new decay factor, the entropy no longer exhibits runaway behavior but stabilizes as it approaches a threshold.
+
+- **Energy Density Stabilization**: The energy density now follows a smoother, decaying curve rather than growing uncontrollably.
+
+- The new model shows that **entropy regulation** through **time feedback** prevents the system from diverging, leading to a stable long-term evolution of the universe's dynamics.
+
+---
+
+### **Key Insights:**
+
+- **Entropy Stabilization**: The introduction of the decay factor in the entropy equation stabilizes the system, ensuring that entropy doesn’t grow unbounded. This change directly resolves the previous **runaway behavior**.
+
+- **Time as a Dynamic Force**: The successful implementation of time-based feedback strengthens the theory that time itself actively modulates the universe's behavior, particularly in black hole systems.
+
+---
+
+### **Iterative Refinements:**
+
+- This simulation refines the previous iteration by adding entropy feedback and an updated energy density feedback loop. The primary change is the incorporation of a **stabilizing factor** in the entropy model, which aligns better with predictions regarding the long-term behavior of black holes and cosmic systems.
 
 ---
 
 ### **4. Conclusion**
 
-## **Final Conclusions for the Black Hole Simulations**  
+With the introduction of **azimuthal quantum feedback** and **entropy stabilization**, the model has been successfully refined to prevent runaway behavior, supporting the hypothesis that **time is a dynamic force** in the universe. The updated findings provide a more stable, realistic representation of black hole and cosmological dynamics, suggesting that **time feedback** could explain previously unexplained phenomena such as entropy regulation and the behavior of matter at extreme scales.
 
-These simulations provide a novel perspective on the role of time in black hole physics and cosmology. By modeling the **release of time** from black holes and its interaction with entropy, spacetime, and cosmic expansion, the results challenge conventional views of black holes as passive sinks of information. Instead, they suggest that **black holes actively regulate the flow of time and entropy**, potentially influencing the large-scale structure of the universe.  
 
----
 
 ## **Conclusions for Each Simulation**  
 
