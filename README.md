@@ -48,3 +48,9 @@ pip install -r requirements.txt
 3.    Run the Simulation:
 
 python scripts/black_hole_time_waves.py
+
+
+
+[![DOI](https://zenodo.org/badge/954716374.svg)](https://doi.org/10.5281/zenodo.15105351)
+
+
