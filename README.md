@@ -37,7 +37,10 @@ Follow these instructions to test and run the **black hole time wave simulation*
 
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15105352.svg)](https://doi.org/10.5281/zenodo.15105352)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15106530.svg)](https://doi.org/10.5281/zenodo.15106530)
+
+
 
 
 
