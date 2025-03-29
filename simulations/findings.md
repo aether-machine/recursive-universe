@@ -92,11 +92,8 @@ This simulation is an advancement over Simulation 1, incorporating entropy chang
 
 ---
 
-### **Updated Simulation Documentation**
 
----
-
-#### **Simulation 3: Advanced Black Hole and Time Feedback (Updated)**
+#### **Simulation 3: Advanced Black Hole and Time Feedback**
 
 **Objective**:  
 This simulation builds on the previous iterations and introduces a more refined model for **time feedback**, specifically addressing the **runaway behavior** observed earlier. By integrating **azimuthal quantum influence** and **entropy stabilization**, the simulation now reflects the dynamic and stabilizing effects of time on both **entropy** and **energy density** in black hole systems.
@@ -107,11 +104,11 @@ This simulation builds on the previous iterations and introduces a more refined 
 - **Entropy Stabilization**: The introduction of a **decay factor** in the entropy function ensures the system stabilizes and avoids runaway entropy growth.
 
 **Input Parameters**:  
-- Cosmological Constant \( \Lambda_0 \): \(10^{-52} \, \text{m}^{-2}\)
-- Energy Density \( \rho_0 \): \(1 \times 10^{-9} \, \text{kg/m}^3\)
-- Time Constant \( \tau \): \(1 \times 10^{10} \, \text{years}\)
-- Quantum Feedback Parameter \( m_{\text{feedback}} \): Modulated based on azimuthal quantum influence
-- Decay Factor \( \gamma \): A stabilizing parameter to prevent runaway behavior
+- Cosmological Constant $$\( \Lambda_0 \): \(10^{-52} \, \text{m}^{-2}\)$$
+- Energy Density $$\( \rho_0 \): \(1 \times 10^{-9} \, \text{kg/m}^3\)$$
+- Time Constant $$\( \tau \): \(1 \times 10^{10} \, \text{years}\)$$
+- Quantum Feedback Parameter $$\( m_{\text{feedback}} \)$$: Modulated based on azimuthal quantum influence
+- Decay Factor $$\( \gamma \)$$: A stabilizing parameter to prevent runaway behavior
 
 **Methodology**:  
 The updated simulation introduces a more robust feedback mechanism that incorporates the **stabilizing effect** of time, preventing runaway entropy and energy growth. The key changes include:
