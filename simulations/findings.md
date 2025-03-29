@@ -180,21 +180,22 @@ With the introduction of **azimuthal quantum feedback** and **entropy stabilizat
 - This could connect to broader ideas about **cosmic entropy stabilization**, where black holes act as **entropy processors** rather than just absorbers.
 
 ---
+### **Simulation 3: Advanced Black Hole and Time Feedback**
 
-### **Simulation 3: Advanced Black Hole and Time Feedback**  
+#### **Key Findings**:
+- The introduction of **azimuthal quantum feedback** stabilized entropy, preventing the previously observed **runaway behavior**.
+- The **entropy decay** now follows a smooth, **downward exponential curve**, confirming the hypothesis that time feedback regulates entropy in black hole systems.
+- Energy density dynamics also stabilized, following a more predictable decay, which is in line with the updated model’s predictions.
 
-#### **Key Findings**:  
-- The inclusion of a **time-dependent cosmological constant** introduced a **feedback loop**, revealing an initially unexpected **runaway behavior** in entropy.
-- Adding **spacetime curvature dynamics** stabilized the runaway effect, but the system still exhibited a **cyclic entropy shift** rather than settling into equilibrium.
-- This suggests that cosmological systems may possess **inherent entropy stabilization mechanisms**, but not necessarily static equilibrium.
+#### **Revised Interpretation**:
+- The updated model confirms that **time feedback** acts as a **dynamic force**, not just as a passive backdrop, regulating both entropy and energy density in black hole systems.
+- Instead of leading to unchecked entropy growth, the time-based feedback introduces a **stabilizing factor** that prevents runaway behavior, supporting the theory that time actively modulates the universe's behavior.
+- This model suggests that black holes may play a critical role in **cosmic entropy regulation**, contributing to a stable long-term evolution of the universe’s dynamics.
 
-#### **Revised Interpretation**:  
-- Instead of seeking a final equilibrium, the model may be pointing to an **oscillatory or feedback-driven entropy dynamic**, where time release causes alternating entropy phases.
-- This could imply that black holes are part of a larger **cosmic feedback system**, dynamically maintaining entropy within certain bounds rather than leading to heat death or unchecked disorder.
-
-#### **Implications**:  
-- This strengthens the idea that **time release from black holes is not a passive process**, but part of a **larger universal balance**.
-- The results could be linked to the **accelerated expansion of the universe**, where time-dependent energy release interacts with cosmic evolution in unexpected ways.
+#### **Implications**:
+- The findings strongly support the idea that **time itself** is a driving force in cosmic dynamics, actively influencing not just black holes but potentially other systems in the universe.
+- The **successful stabilization of entropy** through time feedback aligns with predictions related to the **long-term behavior of the universe**, offering a more stable and realistic model for cosmic evolution.
+- These results could provide insights into the **accelerated expansion of the universe**, suggesting that time feedback mechanisms interact with energy release in a way that influences cosmic evolution and large-scale structure.
 
 ---
 
